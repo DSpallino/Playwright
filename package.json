@@ -1,0 +1,17 @@
+{
+    "name": "playwright-evaluation",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "playwright test"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "playwright": "^1.15.0",
+      "@playwright/test": "^1.15.0"
+    }
+  }
+  
